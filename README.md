@@ -24,6 +24,17 @@
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+## Landscape
+
+* ScriptBook is focused on the Film and Television Industry.
+
+* What have been the major trends and innovations of this field over the last 5-10 years? - This technology has grown from analyzing scripts to predictive outcomes in sales, focused marketing
+
+* Other major companies in this field:  Largo *Film and script analysis solutions provider* , Greenlight Essentials *Movie analytics*, Scriptation *PDF Annotation App for Film and TV Production* , Hangzhou Fire Technology *SaaS-based box-office forecasting solutions provider*, Spec Scout *Online script analysis platform*, Pilot Movies *SaaS-based analytics platform for the entertainment industry*, Fliq *AI-based movie analytics* , Scriptsee *Platform offering film and TV pre-production and script analysis*, Epagogix *Box office forecasting tool*, Story Touch *script creation & analysis software*.
+
+
+
+
 **Resources**
 
 
