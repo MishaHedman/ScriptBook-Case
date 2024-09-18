@@ -1,4 +1,7 @@
 # ScriptBook-Case
+
+![ScriptBook](https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/j8epmaaq3l8tiwsqxgg3)
+
 ## Overview and Origin - Case Study
 
 * ScriptBook is a 
@@ -13,9 +16,9 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve? - Via script analysis, ScriptBook is able to predict the commercial appeal of a project and how much money it will make.  It acts as an added layer of advice when companies are deciding whether to “Greenlight”/spend money to create a project.
+* Via script analysis, ScriptBook is able to predict the commercial appeal of a project and how much money it will make.  It acts as an added layer of advice when companies are deciding whether to “Greenlight”/spend money to create a project.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers? Intended consumers are Movie studios, production companies, investors, talent agencies and distributors.
+* ScriptBooks's intended consumers are Movie studios, production companies, investors, talent agencies and distributors.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) - ScriptBook has a least 11 competitors in the market that do similar things by analyzing scripts, however, 
 
