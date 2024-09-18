@@ -32,7 +32,23 @@
 
 * Other major companies in this field:  Largo *Film and script analysis solutions provider* , Greenlight Essentials *Movie analytics*, Scriptation *PDF Annotation App for Film and TV Production* , Hangzhou Fire Technology *SaaS-based box-office forecasting solutions provider*, Spec Scout *Online script analysis platform*, Pilot Movies *SaaS-based analytics platform for the entertainment industry*, Fliq *AI-based movie analytics* , Scriptsee *Platform offering film and TV pre-production and script analysis*, Epagogix *Box office forecasting tool*, Story Touch *script creation & analysis software*.
 
+## Results
 
+* What has been the business impact of this company so far? ScriptBook is making an impact in the Film & Television industry.  
+
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+
+* How is your company performing relative to competitors in the same field? ScriptBook is currently rated #2 amongst tech companies that provide a similar product.
+
+### Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) I would advise ScriptBook to expand from B2B to include B2C.
+
+* Why do you think that offering this product or service would benefit the company? I believe offering their service directly to consumers would exponentially expand their base.
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
 
 
 **Resources**
