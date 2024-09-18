@@ -49,3 +49,4 @@
 *ScriptBook Demo*
 
 
+>Scriptbook pricing (https://www.scriptbook.io/#!/pricing)
