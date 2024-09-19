@@ -4,31 +4,31 @@
 
 ## Overview and Origin - Case Study
 
-* ScriptBook is a box office forecasting tool.
+* ScriptBook is a script analysis & box office forecasting tool.
 
 * It was founded in 2014.
 
 * ScriptBook was founded by Nadira Azermai.
 
-* Nadira Azermai wrote her Master's thesis on using AI to quantify story-parameters into a predictive model.  Doing this prompted her to start ScriptBook.
+* Nadira Azermai wrote her Master's thesis on using AI to quantify story-parameters into a predictive model.  Writing her thesis prompted her to start ScriptBook.
 
 * ScriptBook has received 1.15 million in funding via seeding invests.
 
 ## Business Activities
 
-* Via script analysis, ScriptBook is able to predict the commercial appeal of a project and how much money it will make.  It acts as an added layer of advice when companies are deciding whether to “Greenlight”/spend money to create a project.
+* Via script analysis, ScriptBook is able to predict the commercial appeal of a project and how much money it will make.  It acts as an added layer of advice when companies are deciding whether to **“Greenlight”** a project.
 
-* ScriptBooks's intended consumers are Movie studios, production companies, investors, talent agencies and distributors. ScriptBook currently has a deal with Warner Brothers.
+* ScriptBooks's intended consumers are Movie studios, production companies, investors, talent agencies and distributors. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) - ScriptBook has a least 11 competitors in the market that do similar things by analyzing scripts, however, 
+* WScriptBook currently has 11 competitors in the market that do similar things by analyzing scripts, however it is one of the few that use generative AI.  
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* ScriptBook uses generative AI. Nadira Azermai holds two patents for the technology she uses in ScriptBook, Generation of Scripted Narratives and Automated Characterization of Scripted Narratives. It uses machine learning to learn from data and improve it's performance over time.
 
 ## Landscape
 
 * ScriptBook is focused on the Film and Television Industry.
 
-* What have been the major trends and innovations of this field over the last 5-10 years? - This technology has grown from analyzing scripts to predictive outcomes in sales, focused marketing
+* This technology has grown from analyzing scripts to predictive outcomes in sales, to casting selection, and focused marketing.  Human decision making has been studied for decades and often used to contemplate box office returns. Box office prediction softwares have been in development for over 20 years using neural networks and now generative AI.
 
 * Other major companies in this field:  Largo *Film and script analysis solutions provider* , Greenlight Essentials *Movie analytics*, Scriptation *PDF Annotation App for Film and TV Production* , Hangzhou Fire Technology *SaaS-based box-office forecasting solutions provider*, Spec Scout *Online script analysis platform*, Pilot Movies *SaaS-based analytics platform for the entertainment industry*, Fliq *AI-based movie analytics* , Scriptsee *Platform offering film and TV pre-production and script analysis*, Epagogix *Box office forecasting tool*, Story Touch *script creation & analysis software*.
 
@@ -38,31 +38,37 @@
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-* How is your company performing relative to competitors in the same field? ScriptBook is currently rated #2 amongst tech companies that provide a similar product.
+* ScriptBook is currently rated #2 amongst tech companies that provide a similar product.
 
 ### Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) I would advise ScriptBook to expand from B2B to include B2C.
+* I would advise ScriptBook to expand from B2B to include B2C and add production budgeting to their service.
 
-* Why do you think that offering this product or service would benefit the company? I believe offering their service directly to consumers would exponentially expand their base.
+* In addition to offering their service to businesses, I believe offering their service directly to consumers would exponentially expand their customer base.  I would also add a budgeting feature to help advise how much should be spent in each area of production.
 
-* What technologies would this additional product or service utilize?
+* Scriptbook could use technology like [ClickUp](https://clickup.com/templates/film-budget-t-222004375) to aid in film production budgeting. 
 
-* Why are these technologies appropriate for your solution?
+* This would provide a well rounded analysis of a films cost, potential income and potential net profit.
 
 
 **Resources**
 
-
 [Company background and funding sources](https://tracxn.com/d/companies/scriptbook/__L5_dZAWHaZ2VJMoS9H2slAzoxZQxLIqsxWBPtJb7gOs)
 
-[ScriptBook vs Natural Text] (https://www.softlist.io/scriptbook-ai-vs-neural-text-full-review-pricing/)
+[ScriptBook vs Natural Text](https://www.softlist.io/scriptbook-ai-vs-neural-text-full-review-pricing/)
 
 [Interview with Nadira Azermai](https://fb.watch/uEkCmUGVr1/?)
 
-[ How Nadira got into screenwriting](https://www.instagram.com/reel/C_rpZfHx_hT/?igsh=d2lrbGJybTJqaGg3)
+[How Nadira got into screenwriting](https://www.instagram.com/reel/C_rpZfHx_hT/?igsh=d2lrbGJybTJqaGg3)
 
-*ScriptBook Demo*
+[Nadira Azermai's Website](https://nadirazermai.com)
 
+[Nadira's Patents](https://nadirazermai.com/articles/10441)
+
+[Neural Network as a Box Office prediction tool](https://www.sciencedirect.com/science/article/abs/pii/S0957417405001399)
+
+[Logit Models](https://www.tandfonline.com/doi/abs/10.1057/jors.1985.5)
+
+>ScriptBook Demo (https://youtu.be/k02iPEpwo3Q?si=TVsDSRWtzZKOQcjy)
 
 >Scriptbook pricing (https://www.scriptbook.io/#!/pricing)
